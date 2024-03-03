@@ -1,0 +1,15 @@
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+E:\Code\PRN221\PRN221_Assignment02_CuongNKCE161131\CarSaleWebApp\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
